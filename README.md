@@ -12,3 +12,4 @@ asdf
 - [x] via brackets
 - [X] Atualizado e continuando
 - [x] Teste 1
+- [x] GG Easy 
