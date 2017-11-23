@@ -9,3 +9,4 @@ asdf
 - [x] aprender a usar git add . 
 - [x] aprender a usar git commit -am "minha mensagem" 
 - [x] aprender a usar git push 
+- [x] via brackets
