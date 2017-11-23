@@ -10,3 +10,4 @@ asdf
 - [x] aprender a usar git commit -am "minha mensagem" 
 - [x] aprender a usar git push 
 - [x] via brackets
+- [X] Atualizado e continuando
