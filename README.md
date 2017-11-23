@@ -11,3 +11,4 @@ asdf
 - [x] aprender a usar git push 
 - [x] via brackets
 - [X] Atualizado e continuando
+- [x] Teste 1
