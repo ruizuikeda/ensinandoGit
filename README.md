@@ -10,3 +10,11 @@ asdf
 - [x] aprender a usar git commit -am "minha mensagem" 
 - [x] aprender a usar git push 
 - [x] via brackets
+
+
+# segunda aula:
+- [x] bootstrap 3
+- [x] fontawesome
+- [x] animatecss
+
+# terceira aula:
