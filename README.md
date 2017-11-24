@@ -12,6 +12,7 @@ asdf
 - [x] via brackets
 
 
+
 # segunda aula:
 - [x] bootstrap 3
 - [x] fontawesome
