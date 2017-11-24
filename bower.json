@@ -1,0 +1,8 @@
+{
+    "name": "ensinandoGit",
+    "dependencies": {
+        "bootstrap": "3.x.x",
+        "fontawesome": "x.x.x",
+        "animate.css": "x.x.x"
+    }
+}
