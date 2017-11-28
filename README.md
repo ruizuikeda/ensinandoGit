@@ -19,3 +19,11 @@ asdf
 - [x] animatecss
 
 # terceira aula:
+- [x] function nomeDaFuncao ( parametrosDaFuncao )
+- [x] variaveis:
+    - int
+    - float
+    - string
+    - array
+    - objeto
+    - json
